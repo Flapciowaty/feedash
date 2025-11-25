@@ -1,2 +1,2 @@
 # FeeDash
-dziennik ocen
+dziennik ocen.
